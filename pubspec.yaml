@@ -1,0 +1,50 @@
+name: periphora_app
+description: A tech peripherals store app with innovative UI/UX.
+
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Google Fonts for typography
+  google_fonts: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/mouse1.webp
+    - assets/keyboard1.webp
+    - assets/mouse2.webp
+    - assets/headset1.jpg
+    - assets/headset2.jpg
+    - assets/keyboard2.webp
+    - assets/mechanical1.jpg
+    - assets/mechanical2.jpg
+    - assets/rgb1.jpg
+    - assets/rgb2.jpg
+    - assets/wireless1.jpg
+    - assets/wireless2.png
+
+
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 700
