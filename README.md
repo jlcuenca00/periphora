@@ -1,7 +1,7 @@
 # Periphora - E-commerce UI Project 🎧🖱️⌨️
 
-**Student Name:** [Your Full Name]  
-**Student ID:** [Your Student ID]
+**Student Name:** Jake Kevin Klair L. Cuenca
+**Student ID:** 2023-2110305
 
 ---
 
