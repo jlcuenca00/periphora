@@ -77,12 +77,6 @@ Targeting tech enthusiasts and gamers, the design blends sophistication with com
 - Interactive elements like pinch-zoom and animated selectors  
 - Personalized touches like “Welcome back” message and “Recently Viewed”
 
-### Screenshots / GIFs 📸
-
-> *(Add screenshots or GIFs here showing the Home carousel, Product Detail zoom & colors, Cart swipe actions, Checkout form)*
-
----
-
 ## Challenges Faced & Solutions 🛠️
 
 ### Challenge 1: Smooth Parallax Animation
